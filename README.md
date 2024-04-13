@@ -1,2 +1,1 @@
 # appointment-booking
-appointment-booking
